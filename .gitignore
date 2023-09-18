@@ -155,3 +155,4 @@ cython_debug/
 *.gitignore
 .DS_Store
 *.geojson
+*.csv
