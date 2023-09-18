@@ -1,0 +1,15 @@
+{
+    "data_paths": {
+        "properties": "../data/bq-property_2008_2019_data.csv",
+        "properties_trains": "../data/properties_trains_shortest_distance.csv",
+        "properties_airports": "../data/Airport Distance/properties_airports_shortest_distance.csv",
+        "properties_green": "../data/environment/parks_lsoa_pre_filter.csv",
+        "inflation_rate": "../data/Business_economy/CPIH_filtered.csv",
+        "bank_rate": "../data/Business_economy/bank_rate_filtered.csv",
+        "postcode_mapping": "../data/postcodes_encoded.csv",
+        "crime": "../data/Crimes/bq-crime-data.csv"
+    },
+    "geo_data_paths": {
+        "geo_data_json": "../data/Boundaries_UK/units/"
+      }
+}
