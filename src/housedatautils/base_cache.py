@@ -25,7 +25,7 @@ class BaseCache:
         - loader_type (str): The type of data loader ('housing', 'geo', etc.).
         - metadata_path (Path): The path to the metadata JSON file.
         - format (str): The file format for caching ('pkl', 'parquet').
-        - save_method (Callable): Function to save data to file.
+        - save_method (Callable): Function to save data to file.2
         - load_method (Callable): Function to load data from file.
         """
         setup_logging()
